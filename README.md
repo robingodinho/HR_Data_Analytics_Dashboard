@@ -35,5 +35,7 @@ https://www.youtube.com/watch?v=4ljpNtQB9TY&ab_channel=Robin
 
 **Client:** Python, Power BI
 
+![HR dashboard screenshot](https://github.com/robingodinho/HR_Data_Analytics_INST627/assets/90001949/e5ff23d0-b6fa-4bb2-a92e-ecefaec5a8c4)
+
 
 
