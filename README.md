@@ -8,6 +8,20 @@ Final deliverables inlcude source code to statistical analytics using Python pan
 ![HR dashboard screenshot](https://github.com/robingodinho/HR_Data_Analytics_INST627/assets/90001949/e5ff23d0-b6fa-4bb2-a92e-ecefaec5a8c4)
 
 
+## How to Run Notebook
+
+1. Open the jupyter notebook labeled 'Robin_Godinho_HR_Data_Analytics.pynb'
+2. Download and attach the dataset labeled 'HR Data.xlsx' to the jupyter notebook
+3. Copy the file path and attach to hr = pd.read_excel('file path')
+4. Run the line of code
+5. Run the python modules and remainder of the notebook
+
+## How to Run Data Dashboard
+
+1. Download Microsoft Power BI to you local computer.
+2. Download the file labeled 'HR - Interactive Data Dashboard'
+3. Open the file on Power BI and load the dashboard.
+
 ## Acknowledgements
 
  - [OpenIntro Statistics by Diez, Barr, Çetinkaya-Rundel](https://www.openintro.org/book/os/)
