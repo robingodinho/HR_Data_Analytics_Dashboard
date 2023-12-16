@@ -5,6 +5,8 @@ This project revolves around an in-depth analysis of a human resources (HR) data
 
 Final deliverables inlcude source code to statistical analytics using Python pandas module, an interactive data dashboard and a comprehensive data report.
 
+![HR dashboard screenshot](https://github.com/robingodinho/HR_Data_Analytics_INST627/assets/90001949/e5ff23d0-b6fa-4bb2-a92e-ecefaec5a8c4)
+
 
 ## Acknowledgements
 
@@ -35,7 +37,7 @@ https://www.youtube.com/watch?v=4ljpNtQB9TY&ab_channel=Robin
 
 **Client:** Python, Power BI
 
-![HR dashboard screenshot](https://github.com/robingodinho/HR_Data_Analytics_INST627/assets/90001949/e5ff23d0-b6fa-4bb2-a92e-ecefaec5a8c4)
+
 
 
 
