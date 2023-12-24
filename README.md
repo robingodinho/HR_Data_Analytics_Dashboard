@@ -3,7 +3,7 @@
 
 This project revolves around an in-depth analysis of a human resources (HR) dataset, aimed at uncovering key insights into employee demographics, compensation, performance, satisfaction, and attrition within an organization. The primary goal is to leverage data-driven approaches to enhance HR policies and decision-making. 
 
-Final deliverables inlcude source code to statistical analytics using Python pandas module, an interactive data dashboard and a comprehensive data report.
+Final deliverables inlcude source code to statistical analytics using Python pandas module, an interactive data dashboard generated using Power BI, and a comprehensive data report.
 
 ![HR dashboard screenshot](https://github.com/robingodinho/HR_Data_Analytics_INST627/assets/90001949/e5ff23d0-b6fa-4bb2-a92e-ecefaec5a8c4)
 
