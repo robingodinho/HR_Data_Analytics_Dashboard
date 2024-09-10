@@ -1,5 +1,5 @@
 
-# HR Data Analytics project by Robin Godinho
+# HR Insights Hub: Real-Time Analytics by Robin Godinho
 
 This project revolves around an in-depth analysis of a human resources (HR) dataset, aimed at uncovering key insights into employee demographics, compensation, performance, satisfaction, and attrition within an organization. The primary goal is to leverage data-driven approaches to enhance HR policies and decision-making. 
 
